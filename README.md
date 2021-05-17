@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+##Created this meme generator app using react js. To check it out clone the repo and follow the given instructions
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
