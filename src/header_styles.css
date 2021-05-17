@@ -1,0 +1,56 @@
+.head{
+    background-image: linear-gradient(to right, rgb(83, 5, 83) , rgb(228, 50, 228));
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.image{
+    float: left;
+    margin: 10px 50px 0px 50px;
+
+}
+.text{
+    border-color: purple;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+}
+label{
+    margin:10px
+}
+button{
+    margin: 10px;
+    padding:10px;
+    background-color: purple;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+.image2{
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 40%;
+    height: 400px;
+}
+.top{
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: -400px;
+}
+.bottom{
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 300px;
+
+}
+.container{
+    text-align: center;
+}
